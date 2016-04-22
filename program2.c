@@ -1,7 +1,8 @@
 #include <stdio.h>
+//i'm B. I change this program. LotteryNo[10] ==>1522 to 1515  and 1711 to 2705
 void main()
 {
-  int WinLotteryNo[10] = {1522, 1711, 5515, 7233, 5614, 8876, 1215, 4232, 9155, 9995}; 
+  int WinLotteryNo[10] = {1515, 2705, 5515, 7233, 5614, 8876, 1215, 4232, 9155, 9995}; 
   float WinAmount[10] = {50000, 10000, 10000, 5000, 5000, 5000, 5000, 3000, 3000, 3000};
   int N = 10;
   int i, won; 
